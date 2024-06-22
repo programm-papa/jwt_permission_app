@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as r,a as e,b as o}from"./index-CWZN-4Qw.js";const s={},a=e("h1",null,[o(" Страница для заполнения, чтоб была"),e("br"),o(" Cюда скидывает вместо 404 ")],-1),n=[a];function _(i,l){return c(),r("main",null,n)}const m=t(s,[["render",_]]);export{m as default};
