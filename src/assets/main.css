@@ -1,0 +1,15 @@
+@import './base.css';
+
+body {
+  background: #313e50;
+}
+
+main {
+  height: 100vh;
+}
+
+h1 {
+  padding: 50px 20px;
+  font-size: 50px;
+  color: lightgray;
+}
